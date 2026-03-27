@@ -1,4 +1,6 @@
 ## Amiga Kick Off 2 Graphics Restyle v1.0
+##### Based on Kick Off 2 Competition Version v1.37 https://kickoff2.com/#ko2cv by Steve Camber
+---------------------------------------------
 
 I've always been obsessed by Kick Off graphics...[]
 
