@@ -14,3 +14,4 @@ pitches.dat
 sounds
 sprites.dat
 title
+README.md
