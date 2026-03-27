@@ -41,10 +41,14 @@ So again, SKIN has its color, ball and both team share the same white from Team 
 Confused? Good, it’s getting worse :) Now, editing kit colors for Team A is straight forward, the diagram matches the actual kit, but Team B uses the same diagram of Team A (even if there’s a dedicated file on disk) so only color 1 will show. Since color 2 defaults to Team A color 2, use your imagination :)
 
 #### KITS diagram
-![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/kits.png?raw=true)
-
-#### KIT colors
 ![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/KO2CV137_GFX_015.png?raw=true)
+
+
+
+### TEAM COLORS
+Available colors from which to choose has been updated. Some colors changes and others replaced with new.
+#### KIT colors
+![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/kits.png?raw=true)
 
 
 ### BALL
