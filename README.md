@@ -1,9 +1,9 @@
 ## Amiga Kick Off 2 Graphics Restyle v1.0
 ##### Based on Kick Off 2 Competition Version v1.37  by Steve Camber
-https://kickoff2.com/#ko2cv  
-https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga  
-https://ko-gathering.com/  
-https://koney-scanlines.tumblr.com/post/811285410600960000/kick-off-2-2026-graphic-restyle-wip-screenshots  
+##### https://kickoff2.com/#ko2cv
+##### https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga
+##### https://ko-gathering.com/
+##### https://koney-scanlines.tumblr.com/post/811285410600960000/kick-off-2-2026-graphic-restyle-wip-screenshots
 ---------------------------------------------
 
 I've always been obsessed by Kick Off graphics...[]
