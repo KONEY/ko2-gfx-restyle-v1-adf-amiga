@@ -39,7 +39,7 @@ Ball works well with white, light gray, yellow, orange and dark red (early socce
 
 
 ### PITCHES
-CV Option ALL PITCHES NORMAL is enforced by default. Problem is CV 1.37 broke this option but also introduced FINAL WHISTLE PITCHES, which is needed in order to show other pitch designs. Therefore, waiting for an official fixe, the option ALL PITCHES NORMAL is always active. It won’t show as active in the menu but it is. Enabling it will produce a nice new feature in which a blinking red message is shown against a black screen 🙂
+**CV Option ALL PITCHES NORMAL is _FORCED_  by default.** Problem is CV 1.37 broke this option but also introduced FINAL WHISTLE PITCHES, which is needed in order to show other pitch designs. Therefore, waiting for an official fixe, the option ALL PITCHES NORMAL is always active. It won’t show as active in the menu but it is. Enabling it will produce a nice new feature in which a blinking red message is shown against a black screen 🙂
 
 #### Normal pitches: 
 + Competition Version v3
