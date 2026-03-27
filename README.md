@@ -1,11 +1,14 @@
 ## Amiga Kick Off 2 Graphics Restyle v1.0
-##### Based on Kick Off 2 Competition Version v1.37 https://kickoff2.com/#ko2cv by Steve Camber
+##### Based on Kick Off 2 Competition Version v1.37 
+https://kickoff2.com/#ko2cv by Steve Camber
+https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga
+https://ko-gathering.com/
+https://koney-scanlines.tumblr.com/post/811285410600960000/kick-off-2-2026-graphic-restyle-wip-screenshots
 ---------------------------------------------
 
 I've always been obsessed by Kick Off graphics...[]
 
-ONLY GRAPHIC CHANGES...[]
-This HACK of the games involves edits to graphic assets only, no changes were made to the game core. Changes made to the program were team colors, default kits and team colors, pitch names and forcing a buggy CV option "ALL PITCHES NORMAL". More on this on pitches section.
+This HACK only involves edits to graphic assets, no changes were made to the game core. Changes made to the program were team colors, default kits and team colors, pitch names and forcing a buggy CV option "ALL PITCHES NORMAL". More on this on pitches section.
 
 ### KITS
 We need to explain a bit how KO1 graphics are organized: the game runs in a 16 colors screen, 8 colors are reserved for the pitch and 8 for players+ball. These 8 are assigned as follows: 1> transparency, 2> player hair (Black), 3> player skin (Pink), 4> Team A main color (Red), 5> Team B main color (blue), 6> Both teams  secondary color + ball (White), 7> Goalkeeper main color (Light Green), 8> Shadows 8 (Dark Green). 
