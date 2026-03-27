@@ -5,7 +5,7 @@
 I've always been obsessed by Kick Off graphics...[]
 
 ONLY GRAPHIC CHANGES...[]
-
+This HACK of the games involves edits to graphic assets only, no changes were made to the game core. Changes made to the program were team colors, default kits and team colors, pitch names and forcing a buggy CV option "ALL PITCHES NORMAL". More on this on pitches section.
 
 ### KITS
 We need to explain a bit how KO1 graphics are organized: the game runs in a 16 colors screen, 8 colors are reserved for the pitch and 8 for players+ball. These 8 are assigned as follows: 1 for transparency, 2 BLACK for players hairs, 3 PINK for player skin, 4 RED for team A, 5 BLUE for team B, 6 WHITE shirt second color for both teams + ball, 7 LIGHT GREEN for goalkeeper, 8 DARK GREEN for shadows. 
