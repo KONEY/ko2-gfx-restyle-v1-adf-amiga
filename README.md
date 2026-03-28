@@ -30,15 +30,15 @@ Basically player reskin logic is based on reverting to how colors were managed i
 So again, SKIN has its color, ball and both team share the same white from Team A (white being KO1 default), goalkeeper use secondary color from Team B. So basically kit editor control all this aspects now :)  
 
 #### KITs are modified as follow. If not specified, Team B secondary color defaults to Team A primary color.  
-+ KIT1: Unchanged.
-+ KIT2: Secondary color forced black, Team B colors are reversed. Kit design is ball color change safe.
-+ KIT3: Secondary color forced black, Team B colors are reversed. Kit design is ball color change safe.
-+ KIT4: Standard monochromatic competition default kit. Pants use secondary color, forced black. Kit design is ball color change safe.
++ KIT1: Unchanged but with forced black pants.
++ KIT2: Secondary color forced black, Kit design is ball color change safe.
++ KIT3: Secondary color forced black, Kit design is ball color change safe.
++ KIT4: Standard monochromatic competition default kit, with forced black pants. Kit design is ball color change safe.
 + KIT5: Final Whistle KIT 7.
-+ KIT6: Unchanged but uses default black pants like in Final Whistle KIT 8 and socks from Kick Off 1 KIT.
-+ GOALKEEPERS: Original Kick Off 1 sprites. Primary color from Team B secondary color, neck from Team B primary color.
++ KIT6: Unchanged but uses Team A secondary color for pants.
++ GOALKEEPERS: Original Kick Off 1 sprites. Primary color taken from Team B secondary color, neck color taken from Team B primary color.
 
-Confused? Good, it’s getting worse :) Now, editing kit colors for Team A is straight forward, the diagram matches the actual kit, but Team B uses the same diagram of Team A (even if there’s a dedicated file on disk) so only color 1 will show. Since color 2 defaults to Team A color 2, use your imagination :)
+Confused? Good, it’s getting worse :) Now, editing kit colors for Team A is straight forward as diagrams matche the actual kits, but Team B uses same diagrams of Team A (even if there are dedicated files on disk...) so only primary color will show properly. Since secondary defaults to Team A secondary, use your imagination :)
 
 #### KITS diagram
 ![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/KO2CV137_GFX_015.png?raw=true)
