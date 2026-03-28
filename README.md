@@ -99,6 +99,7 @@ KickOff2Online version of these designs will also available.
 * Vasmm68k_mot
 * rnd_pdat.py
 * combine_iff.py
+* WinUAE 6.0.3
 
 
 -------------------------------
