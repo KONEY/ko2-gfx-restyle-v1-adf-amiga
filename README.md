@@ -52,6 +52,7 @@ Available colors from which to choose has been updated. Some colors changes and 
 ### BALL
 Original sprite from KO1 is used, no more spots. Old design was much more clean and made better sense.
 Color working nice for ball is the canonical white but also light gray, yellow, orange and dark red (early soccer leather ball). Not sure a green ball would be a good idea :)
+
 ![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/new_ball.png?raw=true)
 
 
