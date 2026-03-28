@@ -39,7 +39,7 @@ So again, SKIN has its color, ball and both team share the same white from Team 
 Confused? Good, because it's getting worse :) Now, editing kit colors for Team A is quite straightforward as diagrams match the actual kits, but Team B uses the same diagrams of Team A (even if there are dedicated files on disk...) so only primary color will show properly. Since secondary is shared with Team A secondary, use your imagination :)
 
 #### KITS diagram
-![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/Kits.png?raw=true)
+![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/kits.png?raw=true)
 
 
 
