@@ -6,39 +6,37 @@
 ##### https://koney-scanlines.tumblr.com/post/811285410600960000/kick-off-2-2026-graphic-restyle-wip-screenshots
 ---------------------------------------------
 
-I've always been obsessed by Kick Off graphics...[]
-
-This HACK only involves edits to graphic assets, no changes were made to the game core. Changes made to the program were team colors, default kits and team colors, pitch names and forcing a buggy CV option "ALL PITCHES NORMAL". More on this on pitches section.
+This HACK only involves edits to graphic assets, no changes were made to the game core with small exceptions. Changes made to the program were team colors palette, default kits, default team colors, pitch names and forcing a buggy CV option "ALL PITCHES NORMAL". More on this on pitches section.
 
 ### KITS
 We need to explain a bit how KO1 graphics are organized: the game runs in a 16 colors screen, 8 colors are reserved for the pitch and 8 for players+ball. 
 These 8 are assigned as follows: 
-1. transparency
-2. player hair (Black)
-3. player skin (Pink)
+1. Transparency
+2. Player hair (Black)
+3. Player skin (Pink)
 4. Team A primary color (Red)
-5. Team B primary color (blue)
+5. Team B primary color (Blue)
 6. Both teams  secondary color + ball (White)
 7. Goalkeeper main color (Light Green)
-8. Shadows 8 (Dark Green)
+8. Shadows (Dark Green)
    
 In KO2, In order to add a secondary color for each team, luminosity of ball and player skin colors were changed so that skin is so bright and ball so reddish their color match. Then goalkeeper shirt light green was darkened so that it matched color for shadow. This way an extra color for each team shirt was made available. 
 
 Visually, this sucks. Every kit involving some white makes no sense as everything is now white on white. But thinking at when this was done, it makes perfectly sense in a commercial perspective. 1990 was the year of Italy WC and being able to mimic more closely any team colors was a game changer for a football game. This also opened the way to more expansion data-disks, so a definitely a commercial goal. But today, we play mostly with yellow and blue shirts, so I think it’s time to revert graphics to KO1 era :) 
 
-Basically player reskin logic is based on reverting to how colors were managed in Kick Off 1 🙂  
+Basically player reskin logic is based on reverting back to how colors were managed in Kick Off 1 🙂  
 So again, SKIN has its color, ball and both team share the same white from Team A (white being KO1 default), goalkeeper use secondary color from Team B. So basically kit editor control all this aspects now :)  
 
 #### KITs are modified as follow. If not specified, Team B secondary color defaults to Team A primary color.  
-+ KIT1: Unchanged but with forced black pants.
++ KIT1: Forced black pants.
 + KIT2: Secondary color forced black, Kit design is ball color change safe.
-+ KIT3: Secondary color forced black, Kit design is ball color change safe.
++ KIT3: Forced black pants.
 + KIT4: Standard monochromatic competition default kit, with forced black pants. Kit design is ball color change safe.
 + KIT5: Final Whistle KIT 7.
-+ KIT6: Unchanged but uses Team A secondary color for pants.
++ KIT6: Team A secondary color used for pants.
 + GOALKEEPERS: Original Kick Off 1 sprites. Primary color taken from Team B secondary color, neck color taken from Team B primary color.
 
-Confused? Good, it’s getting worse :) Now, editing kit colors for Team A is straight forward as diagrams matche the actual kits, but Team B uses same diagrams of Team A (even if there are dedicated files on disk...) so only primary color will show properly. Since secondary defaults to Team A secondary, use your imagination :)
+Confused? Good, it’s getting worse :) Now, editing kit colors for Team A is straight forward as diagrams match the actual kits, but Team B uses same diagrams of Team A (even if there are dedicated files on disk...) so only primary color will show properly. Since secondary is shared with Team A secondary, use your imagination :)
 
 #### KITS diagram
 ![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/KO2CV137_GFX_015.png?raw=true)
@@ -52,7 +50,9 @@ Available colors from which to choose has been updated. Some colors changes and 
 
 
 ### BALL
-Ball works well with white, light gray, yellow, orange and dark red (early soccer leather ball). Not sure a green ball would be a good idea :)
+Original sprite from KO1 is used, no more spots. Old design was much more clean and made better sense.
+Color working nice for ball is the canonical white but also light gray, yellow, orange and dark red (early soccer leather ball). Not sure a green ball would be a good idea :)
+<pic>
 
 
 ### PITCHES
@@ -75,10 +75,15 @@ KickOff2Online version of these designs is also available.
 
 
 
-### SPLASH SCREEN
-A new loading screen, nothing relevant to the gameplay.
+### OTHER ASSETS
++ Corner selectors are taken from KO2. Again, the old design made much more sense.
++ A new designed loading screen, nothing relevant to the gameplay.
 
 ![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/splash_biglogo.png?raw=true)
+
+
+
+------------------------------------------------------------
 
 
 
