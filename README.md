@@ -6,7 +6,9 @@
 ##### https://koney-scanlines.tumblr.com/post/811285410600960000/kick-off-2-2026-graphic-restyle-wip-screenshots
 ---------------------------------------------
 
-This HACK only involves edits to graphic assets, no changes were made to the game core with small exceptions. Changes made to the program were team colors palette, default kits, default team colors, pitch names and forcing a buggy CV option "ALL PITCHES NORMAL". More on this on pitches section.
+This HACK only involves edits to graphic assets, no changes were made to the game core with small exceptions. Changes made to the program were team colors palette, default kits, default team colors, pitch names and forcing a buggy CV option "ALL PITCHES NORMAL" (more on this in pitches section).  
+For this reason, it is BASED on but NOT SPECIFIC for CV 1.37, besides new palette, default settings and forced option it should work with any version KO2 version.  
+
 
 ### KITS
 We need to explain a bit how KO1 graphics are organized: the game runs in a 16 colors screen, 8 colors are reserved for the pitch and 8 for players+ball. 
