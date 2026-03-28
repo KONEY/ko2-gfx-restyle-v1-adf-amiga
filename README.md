@@ -29,30 +29,30 @@ So again, SKIN has its color, ball and both team share the same white from Team 
 
 #### KITs are modified as follow. If not specified, Team B secondary color defaults to Team A primary color.  
 + KIT1: Forced black pants.
-+ KIT2: Secondary color forced black, Kit design is ball color change safe.
++ KIT2: Secondary color forced black, ball color change safe.
 + KIT3: Forced black pants.
-+ KIT4: Standard monochromatic competition default kit, with forced black pants. Kit design is ball color change safe.
++ KIT4: Mnochromatic, standard competition default kit. Ball color change safe.
 + KIT5: Final Whistle KIT 7.
 + KIT6: Team A secondary color used for pants.
 + GOALKEEPERS: Original Kick Off 1 sprites. Primary color taken from Team B secondary color, neck color taken from Team B primary color.
 
-Confused? Good, it’s getting worse :) Now, editing kit colors for Team A is straight forward as diagrams match the actual kits, but Team B uses same diagrams of Team A (even if there are dedicated files on disk...) so only primary color will show properly. Since secondary is shared with Team A secondary, use your imagination :)
+Confused? Good, because it's getting worse :) Now, editing kit colors for Team A is quite straightforward as diagrams match the actual kits, but Team B uses the same diagrams of Team A (even if there are dedicated files on disk...) so only primary color will show properly. Since secondary is shared with Team A secondary, use your imagination :)
 
 #### KITS diagram
-![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/KO2CV137_GFX_015.png?raw=true)
+![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/Kits.png?raw=true)
 
 
 
 ### TEAM COLORS
 Available colors from which to choose has been updated. Some colors changes and others replaced with new.
 #### KIT colors
-![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/kits.png?raw=true)
+![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/Team_Colors.png?raw=true)
 
 
 ### BALL
 Original sprite from KO1 is used, no more spots. Old design was much more clean and made better sense.
 Color working nice for ball is the canonical white but also light gray, yellow, orange and dark red (early soccer leather ball). Not sure a green ball would be a good idea :)
-<pic>
+![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/new_ball.png?raw=true)
 
 
 ### PITCHES
@@ -70,8 +70,8 @@ Color working nice for ball is the canonical white but also light gray, yellow, 
 + Wembley restyle
 + Player Manager restyle
 
-KickOff2Online version of these designs is also available.
-![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/099.png?raw=true)
+KickOff2Online version of these designs will also available.
+![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/pitch_tiles.png?raw=true)
 
 
 
