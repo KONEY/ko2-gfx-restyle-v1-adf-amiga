@@ -68,7 +68,7 @@ Technically it's also possible to have a green ball, but I'm not sure it would b
 ### PITCHES
 **CV Option ALL PITCHES NORMAL is _FORCED_  by default.**  
 New designs are for visuals only; different behaviours of pitches are unwanted.  
-The problem is CV 1.37 broke this option but also introduced FINAL WHISTLE PITCHES, which are needed in order to show other pitch designs. Therefore, while waiting for an official fix, the option ALL PITCHES NORMAL is always active. It won’t show as active in the menu, but it is. Enabling it will produce a nice new feature in which a blinking red message is shown against a black screen. 🙂
+The problem is CV 1.37 broke this option but also introduced FINAL WHISTLE PITCHES, which are needed in order to show other pitch designs. Therefore, while hoping for an official fix, the option ALL PITCHES NORMAL is always forced. It won’t show as active in the menu, but it is. Enabling it will introduce you to a nice new feature in which a blinking red message is shown against a black screen. 🙂
 
 #### Normal pitches become: 
 + Competition Version v3
