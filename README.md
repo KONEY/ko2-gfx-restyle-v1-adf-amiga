@@ -41,7 +41,8 @@ So again, SKIN has its colour and ball, and both teams share the same white from
 + KIT6: Team A secondary colour used for pants.
 + GOALKEEPERS: Original Kick Off 1 sprites. Primary colour taken from Team B secondary colour, and neck color taken from Team B primary colour.
 
-Confused? Good, because it's getting worse :) Now, editing kit colours for Team A is quite straightforward, as diagrams match the actual kits, but Team B uses the same diagrams as Team A (even if there are dedicated files on disk...) so only the primary colour will show properly. Since secondary is shared with Team A secondary, use your imagination! :)
+Confused? Good, because it's getting worse :) Now, editing kit colours for Team A is quite straightforward, as diagrams match the actual kits, but Team B uses the same diagrams as Team A (even if there are dedicated files on disk...) so only the primary colour will show properly. 
+Anyway I made a quick KIT configurator online to help figure out how colors are mapped: https://ko2cv-gfx-v1-kit-cfg.oneapp.dev/ 
 
 #### KITS diagrams
 ![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/kits.png?raw=true)
