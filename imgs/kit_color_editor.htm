@@ -297,13 +297,13 @@
 	// Gamepad support
 	let gpPrev = null;
 	function readGpState(gp) {
-		const t = 0.5;
 		const btn = (i) => gp.buttons[i] && gp.buttons[i].pressed;
+		const ax0 = gp.axes[0], ax1 = gp.axes[1];
 		return [
-			gp.axes[1] < -t || btn(12), // up
-			gp.axes[1] >  t || btn(13), // down
-			gp.axes[0] < -t || btn(14), // left
-			gp.axes[0] >  t || btn(15), // right
+			ax1 < 0.25 || btn(12), // up
+			ax1 > 0.75 || btn(13), // down
+			ax0 < 0.25 || btn(14), // left
+			ax0 > 0.75 || btn(15), // right
 		];
 	}
 	function pollGamepad() {
