@@ -46,6 +46,11 @@
 		display: flex;
 		align-items: center;
 		gap: 8px;
+		padding: 4px 8px;
+		border-radius: 4px;
+	}
+	.color-group.active {
+		background: #0011aa;
 	}
 	.color-group label {
 		font-size: 14px;
@@ -61,6 +66,8 @@
 	.key-hint {
 		font-size: 11px;
 		color: #888;
+		min-width: 16px;
+		text-align: center;
 	}
 	select {
 		font-family: Tahoma, sans-serif;
@@ -80,28 +87,28 @@
 	<div class="controls">
 		<div class="team-col">
 			<h3>TEAM A</h3>
-			<div class="color-group">
+			<div class="color-group" id="grp-0">
+				<span class="key-hint" id="hint-0"></span>
 				<span class="swatch" id="sw-orange"></span>
 				<select id="sel-orange"></select>
-				<span class="key-hint">&#9650;</span>
 			</div>
-			<div class="color-group">
+			<div class="color-group" id="grp-1">
+				<span class="key-hint" id="hint-1"></span>
 				<span class="swatch" id="sw-white"></span>
 				<select id="sel-white"></select>
-				<span class="key-hint">&#9660;</span>
 			</div>
 		</div>
 		<div class="team-col">
 			<h3>TEAM B</h3>
-			<div class="color-group">
+			<div class="color-group" id="grp-2">
+				<span class="key-hint" id="hint-2"></span>
 				<span class="swatch" id="sw-blue"></span>
 				<select id="sel-blue"></select>
-				<span class="key-hint">&#9664;</span>
 			</div>
-			<div class="color-group">
+			<div class="color-group" id="grp-3">
+				<span class="key-hint" id="hint-3"></span>
 				<span class="swatch" id="sw-darkgray"></span>
 				<select id="sel-darkgray"></select>
-				<span class="key-hint">&#9654;</span>
 			</div>
 		</div>
 	</div>
@@ -242,7 +249,18 @@
 		populateSelect('sel-darkgray', '#444');
 
 		repaint();
+		updateHints();
 	};
+	const SELECT_IDS = ['sel-orange', 'sel-white', 'sel-blue', 'sel-darkgray'];
+	let activeIdx = 0;
+
+	function updateHints() {
+		for (let i = 0; i < 4; i++) {
+			document.getElementById('hint-' + i).innerHTML = i === activeIdx ? '&#9650;&#9660;' : '';
+			document.getElementById('grp-' + i).classList.toggle('active', i === activeIdx);
+		}
+	}
+
 	function cycleSelect(id, direction) {
 		const sel = document.getElementById(id);
 		let i = sel.selectedIndex + direction;
@@ -254,10 +272,22 @@
 
 	document.addEventListener('keydown', e => {
 		switch (e.key) {
-			case 'ArrowUp':    e.preventDefault(); cycleSelect('sel-orange',   -1); break;
-			case 'ArrowDown':  e.preventDefault(); cycleSelect('sel-white',     1); break;
-			case 'ArrowLeft':  e.preventDefault(); cycleSelect('sel-blue',     -1); break;
-			case 'ArrowRight': e.preventDefault(); cycleSelect('sel-darkgray',  1); break;
+			case 'ArrowUp':
+				e.preventDefault();
+				cycleSelect(SELECT_IDS[activeIdx], -1);
+				break;
+			case 'ArrowDown':
+				e.preventDefault();
+				cycleSelect(SELECT_IDS[activeIdx], 1);
+				break;
+			case 'ArrowLeft':
+				e.preventDefault();
+				if (activeIdx > 0) { activeIdx--; updateHints(); }
+				break;
+			case 'ArrowRight':
+				e.preventDefault();
+				if (activeIdx < 3) { activeIdx++; updateHints(); }
+				break;
 		}
 	});
 
