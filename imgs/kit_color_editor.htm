@@ -294,33 +294,6 @@
 		}
 	});
 
-	// Gamepad support
-	let gpPrev = null;
-	function readGpState(gp) {
-		const btn = (i) => gp.buttons[i] && gp.buttons[i].pressed;
-		const ax0 = gp.axes[0], ax1 = gp.axes[1];
-		return [
-			ax1 < 0.25 || btn(12), // up
-			ax1 > 0.75 || btn(13), // down
-			ax0 < 0.25 || btn(14), // left
-			ax0 > 0.75 || btn(15), // right
-		];
-	}
-	function pollGamepad() {
-		const gp = navigator.getGamepads ? navigator.getGamepads()[0] : null;
-		if (gp) {
-			const cur = readGpState(gp);
-			if (gpPrev) {
-				if (cur[0] && !gpPrev[0]) handleUp();
-				if (cur[1] && !gpPrev[1]) handleDown();
-				if (cur[2] && !gpPrev[2]) handleLeft();
-				if (cur[3] && !gpPrev[3]) handleRight();
-			}
-			gpPrev = cur;
-		}
-		requestAnimationFrame(pollGamepad);
-	}
-	window.addEventListener('gamepadconnected', () => { gpPrev = null; pollGamepad(); });
 
 	img.src = 'data:image/png;base64,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';
 	</script>
