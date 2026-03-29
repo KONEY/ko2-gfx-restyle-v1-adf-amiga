@@ -1,0 +1,2 @@
+ setInterval(() => { const g = navigator.getGamepads()[0]; if(g) console.log('axes:', [...g.axes].map(v=>v.toFixed(2)), 'btns:',
+  [...g.buttons].map((b,i)=>b.pressed?i:null).filter(v=>v!==null)) }, 500)
