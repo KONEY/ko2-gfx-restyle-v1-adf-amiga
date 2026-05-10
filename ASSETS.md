@@ -14,18 +14,18 @@
 
 -----------------------------------------------------------------------------------------------------
 
-![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/kit3.bl1.png?raw=true)
+![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/kit4.bl1.png?raw=true)
 ![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/style3a.png?raw=true)
 
-![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/kit3b.bl1.png?raw=true)
+![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/kit4b.bl1.png?raw=true)
 ![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/style3b.png?raw=true)
 
 -----------------------------------------------------------------------------------------------------
 
-![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/kit4.bl1.png?raw=true)
+![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/kit3.bl1.png?raw=true)
 ![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/style4a.png?raw=true)
 
-![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/kit4b.bl1.png?raw=true)
+![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/kit3b.bl1.png?raw=true)
 ![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/style4b.png?raw=true)
 
 -----------------------------------------------------------------------------------------------------
