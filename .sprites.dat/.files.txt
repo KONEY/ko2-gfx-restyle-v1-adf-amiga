@@ -21,16 +21,12 @@ style4b.iff
 # STANDARD_CV_b
 style5a.iff
 # DIAG+FW7_a
-# FW7_a
 style5b.iff
 # DIAG+FW7_b
-# FW7_b_SEC
 style6a.iff
-# DIAG+FW7_INV_a
-# DIAGLINE_a
+# VSTRIP_a
 style6b.iff
-# DIAG+FW7_INV_b
-# DIAGLINE_b
+# VSTRIP_3cols_b
 keeper.iff
 # KO1_KEEPER_GREEN
 ball.iff

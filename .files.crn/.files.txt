@@ -43,16 +43,12 @@ kit4b.bl1
 # KO23+FW7_b
 kit5.bl1
 # DIAG+FW7_a
-# FW7_a
 kit5b.bl1
 # DIAG+FW7_b
-# FW7_b
 kit6.bl1
-# DIAG+FW7_INV_a
-# DIAGLINE_a
+# VSTRIP_a
 kit6b.bl1
-# DIAG+FW7_INV_b
-# DIAGLINE_b
+# VSTRIP_b
 ko1.men
 ko10.men
 ko11.men
