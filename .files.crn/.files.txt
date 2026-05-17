@@ -33,20 +33,20 @@ kit2.bl1
 # JUVE_a
 kit2b.bl1
 # JUVE_b
+kit4.bl1
+# KO24+FW7_a
+kit4b.bl1
+# KO24+FW7_b
 kit3.bl1
 # STANDARD_CV_a
 kit3b.bl1
 # STANDARD_CV_b
-kit4.bl1
-# KO23+FW7_a
-kit4b.bl1
-# KO23+FW7_b
 kit5.bl1
 # DIAG+FW7_a
 kit5b.bl1
 # DIAG+FW7_b
 kit6.bl1
-# VSTRIP_a
+# VSTRIP_3cols_a
 kit6b.bl1
 # VSTRIP_b
 ko1.men

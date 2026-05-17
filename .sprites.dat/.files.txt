@@ -12,9 +12,9 @@ style2a.iff
 style2b.iff
 # JUVE_b
 style3a.iff
-# KO23+FW7_INV2_a
+# KO24+FW7_a
 style3b.iff
-# KO23+FW7_b
+# KO24+FW7_b
 style4a.iff
 # STANDARD_CV_a
 style4b.iff
@@ -24,7 +24,7 @@ style5a.iff
 style5b.iff
 # DIAG+FW7_b
 style6a.iff
-# VSTRIP_a
+# VSTRIP_3cols_a
 style6b.iff
 # VSTRIP_3cols_b
 keeper.iff
