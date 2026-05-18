@@ -48,7 +48,7 @@ kit5b.bl1
 kit6.bl1
 # VSTRIP_3cols_a
 kit6b.bl1
-# VSTRIP_b
+# VSTRIP_3cols_b
 ko1.men
 ko10.men
 ko11.men
@@ -80,21 +80,27 @@ scr13.men
 skit1.bl1
 # s_KO1_a
 skit1b.bl1
+# s_KO1_b
 skit2.bl1
 # s_JUVE_a
 skit2b.bl1
+# s_JUVE_b
 skit3.bl1
-# s_STANDARD_CV_a
+# s_KO24+FW7_a
 skit3b.bl1
+# s_KO24+FW7_b
 skit4.bl1
-# s_KO23+FW7_a
+# s_STANDARD_CV_a
 skit4b.bl1
+# s_STANDARD_CV_b
 skit5.bl1
-# s_FW7_a
+# s_DIAG+FW7_a
 skit5b.bl1
+# s_DIAG+FW7_b
 skit6.bl1
-# s_DIAGLINE_a
+# s_VSTRIP_3cols_a
 skit6b.bl1
+# s_VSTRIP_3cols_b
 wcup.bl1
 wcup1.men
 wcup2.men
