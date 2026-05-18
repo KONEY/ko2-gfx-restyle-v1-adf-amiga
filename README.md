@@ -1,15 +1,18 @@
-## Amiga Kick Off 2 Graphics Restyle v1.0
+## Amiga Kick Off 2 Graphics Restyle v1.1
 ![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/splash_biglogo.png?raw=true)
-##### Based on Kick Off 2 Competition Version v1.38 by Steve Camber
+##### Based on Kick Off 2 Competition Version v1.39 by Steve Camber
 ##### https://kickoff2.com/#ko2cv
 ##### https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga
 ##### https://ko-gathering.com/
 ##### https://koney-scanlines.tumblr.com/post/811285410600960000/kick-off-2-2026-graphic-restyle-wip-screenshots
 ---------------------------------------------
 
-This HACK only involves edits to graphic assets; no changes were made to the game core with small exceptions. Changes made to the program were team colours palette, default kits, default team colours, pitch names and forcing a buggy CV option "ALL PITCHES NORMAL" (more on this in the pitches section).
-For this reason, it is BASED on but NOT SPECIFIC for CV 1.37; besides the new palette, default settings and forced option, it should work with any KO2 version. EDIT: During the redesign CV 1.38 was released and it worked straight away. With Steve Camber we're figuring out a system which would allow upgrading to new CVs as easy as possible.
+This HACK only involves edits to graphic assets; no changes were made to the game core with small exceptions. Changes made to the program were team colours palette, default kits, default team colours, pitch names and forcing on CV option "ALL PITCHES NORMAL"
+It is BASED on but NOT SPECIFIC for CV 1.39.
 
+#### v1.1 Update
+The main reason for this update is to support CV 1.39 by employing a mechanism developed by Steve Camber which enables current and future versions of this package to be updated and based on current and future CV releases in a quick and easy way. When a new CV will be published it will take literally a minute to update the restyle to be based on it, without having to hack into binary.
+Secondary reasons for the update is a general fix of sprite sheets, sobstitution of kit 3 and 6 and re-enabling small pre-match icons.
 
 ---------------------------------------------
 ### KITS
@@ -33,10 +36,10 @@ Basically player reskin logic is based on reverting back to somehow colours were
 #### KITs are modified as follows. Ball gets its color form Team A secondary and keeper details from Team B secondary.
 + KIT 1: Original Kick Off 1 KIT+ some fix
 + KIT 2: Secondary colour forced black
-+ KIT 3: KIT 3 and forced black FW KIT 7 interbred :)
++ KIT 3: KIT 4 + forced black FW KIT 7
 + KIT 4: Monochromatic, standard competition default kit.
-+ KIT 5: Final Whistle KIT 7
-+ KIT 6: Unchanged
++ KIT 5: KIT 6 + Final Whistle KIT 7
++ KIT 6: KIT 2 with reversed colors and pants color borrowed from other team's primary color.
 + GOALKEEPERS: Kick Off 1 sprites
 
 However these descriptions should not be taken as absolute because a lot of "creativity" was added to designs. Some kit may have a few differcences between Team A and B. Use the following diagram as a reference.
