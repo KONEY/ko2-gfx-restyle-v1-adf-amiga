@@ -12,7 +12,7 @@ It is BASED on but NOT SPECIFIC for CV 1.39.
 
 #### v1.1 Update
 The main reason for this update is to support CV 1.39 by employing a mechanism developed by Steve Camber which enables current and future versions of this package to be updated and based on current and future CV releases in a quick and easy way. When a new CV will be published it will take literally a minute to update the restyle to be based on it, without having to hack into binary.
-Secondary reasons for the update is a general fix of sprite sheets, sobstitution of kit 3 and 6 and re-enabling small pre-match icons.
+Secondary reasons for the update is a general fix of sprite sheets, substitution of kit 3 and 6 and re-enabling small pre-match icons.
 
 ---------------------------------------------
 ### KITS
