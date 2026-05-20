@@ -1,17 +1,24 @@
 ### KITS
+
+*Style 1 uses original KickOff 1 spritesheet*
+-----------------------------------------------------------------------------------------------------
 ![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/kit1.bl1.png?raw=true) ![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/kit1b.bl1.png?raw=true)
 
 ![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/style1a.png?raw=true) ![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/style1b.png?raw=true)
+
+*Style 2 uses secondary color on Team B only*
 -----------------------------------------------------------------------------------------------------
 ![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/kit2.bl1.png?raw=true) ![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/kit2b.bl1.png?raw=true)
 
 ![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/style2a.png?raw=true) ![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/style2b.png?raw=true)
 -----------------------------------------------------------------------------------------------------
-![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/kit3.bl1.png?raw=true) ![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/kit3b.bl1.png?raw=true)
+![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/kit4.bl1.png?raw=true) ![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/kit4b.bl1.png?raw=true)
 
 ![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/style3a.png?raw=true) ![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/style3b.png?raw=true)
+
+*Style 4 is used as default CV kit*
 -----------------------------------------------------------------------------------------------------
-![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/kit4.bl1.png?raw=true) ![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/kit4b.bl1.png?raw=true)
+![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/kit3.bl1.png?raw=true) ![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/kit3b.bl1.png?raw=true)
 
 ![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/style4a.png?raw=true) ![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/style4b.png?raw=true)
 -----------------------------------------------------------------------------------------------------
