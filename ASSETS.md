@@ -24,6 +24,9 @@
 ![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/style6a.png?raw=true) ![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/style6b.png?raw=true)
 -----------------------------------------------------------------------------------------------------
 
+##### GOALKEEPER
+![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/keeper.png?raw=true)
+
 #### SMALL ICONS
 ![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/skit1.bl1.png?raw=true) ![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/skit2.bl1.png?raw=true) ![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/skit3.bl1.png?raw=true)
 ![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/skit4.bl1.png?raw=true) ![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/skit5.bl1.png?raw=true) ![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/skit6.bl1.png?raw=true)
@@ -42,3 +45,6 @@
 ![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/FBGRAPH4.NON.png?raw=true) ![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/FBGRAPH4.MUD.png?raw=true)
 
 ![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/FBGRAPH4.WEM.png?raw=true) ![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/FBGRAPH4.SNO.png?raw=true)
+
+#### SPLASH SCREEN
+![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/title.png?raw=true)
