@@ -11,6 +11,8 @@
 ![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/kit2.bl1.png?raw=true) ![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/kit2b.bl1.png?raw=true)
 
 ![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/style2a.png?raw=true) ![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/style2b.png?raw=true)
+
+*Style 3 is a bit creative*
 -----------------------------------------------------------------------------------------------------
 ![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/kit4.bl1.png?raw=true) ![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/kit4b.bl1.png?raw=true)
 
@@ -21,10 +23,14 @@
 ![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/kit3.bl1.png?raw=true) ![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/kit3b.bl1.png?raw=true)
 
 ![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/style4a.png?raw=true) ![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/style4b.png?raw=true)
+
+*Style 5 is also bit creative*
 -----------------------------------------------------------------------------------------------------
 ![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/kit5.bl1.png?raw=true) ![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/kit5b.bl1.png?raw=true)
 
 ![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/style5a.png?raw=true) ![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/style5b.png?raw=true)
+
+*Style 6 is VERY creative, other Team's primary color is borrowed for the pants*
 -----------------------------------------------------------------------------------------------------
 ![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/kit6.bl1.png?raw=true) ![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/kit6b.bl1.png?raw=true)
 
