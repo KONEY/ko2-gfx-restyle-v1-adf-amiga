@@ -1,4 +1,5 @@
-; **** CONFIG FILE FOR KICKOFF2 CV 1.39b and > ***+
+; **** CONFIG FILE FOR KICKOFF2 CV 1.39b and > ****
+; **** GIT SUBMODULE TEST ****
 
 			DC.L	$FACEFEED	; GFX config location marker
 
