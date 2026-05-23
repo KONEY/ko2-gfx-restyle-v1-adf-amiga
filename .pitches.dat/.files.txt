@@ -16,9 +16,9 @@ fbgraph4.wet
 # H_Stripes_v3
 #
 pdat.sog
-# SOGGY+
+# GOSSY
 fbgraph4.sog
-# SOGGY+_v2
+# GOSSY
 #
 pdat.art
 # PMANAGER+

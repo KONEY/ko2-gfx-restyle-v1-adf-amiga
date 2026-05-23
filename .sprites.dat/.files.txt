@@ -4,17 +4,18 @@
 # Write back to single file using writefiles.
 #
 style1a.iff
-# KO1_a
+# KO2_a
 style1b.iff
-# KO1_b
+# KO2_b
 style2a.iff
 # JUVE_a
 style2b.iff
 # JUVE_b
 style3a.iff
-# KO24+FW7_a
+# KO23+KO24_a
 style3b.iff
-# KO24+FW7_b
+# KO23+KO24_b
+#
 style4a.iff
 # STANDARD_CV_a
 style4b.iff
@@ -27,6 +28,7 @@ style6a.iff
 # VSTRIP_3cols_a
 style6b.iff
 # VSTRIP_3cols_b
+#
 keeper.iff
 # KO1_KEEPER_GREEN
 ball.iff
