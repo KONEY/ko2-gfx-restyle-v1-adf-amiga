@@ -25,9 +25,9 @@ style5a.iff
 style5b.iff
 # DIAG+FW7_b
 style6a.iff
-# VSTRIP_3cols_a
+# DIAGLINE_a
 style6b.iff
-# VSTRIP_3cols_b
+# DIAGLINE_b
 #
 keeper.iff
 # KO1_KEEPER_GREEN

@@ -34,9 +34,9 @@ kit2.bl1
 kit2b.bl1
 # JUVE_b
 kit4.bl1
-# KO24+FW7_a
+# KO23+KO24_a
 kit4b.bl1
-# KO24+FW7_b
+# KO23+KO24_b
 kit3.bl1
 # STANDARD_CV_a
 kit3b.bl1
@@ -46,9 +46,9 @@ kit5.bl1
 kit5b.bl1
 # DIAG+FW7_b
 kit6.bl1
-# VSTRIP_3cols_a
+# DIAGLINE_a
 kit6b.bl1
-# VSTRIP_3cols_b
+# DIAGLINE_b
 ko1.men
 ko10.men
 ko11.men
@@ -86,9 +86,9 @@ skit2.bl1
 skit2b.bl1
 # s_JUVE_b
 skit3.bl1
-# s_KO24+FW7_a
+# s_KO23+KO24_a
 skit3b.bl1
-# s_KO24+FW7_b
+# s_KO23+KO24_b
 skit4.bl1
 # s_STANDARD_CV_a
 skit4b.bl1
@@ -98,9 +98,9 @@ skit5.bl1
 skit5b.bl1
 # s_DIAG+FW7_b
 skit6.bl1
-# s_VSTRIP_3cols_a
+# s_DIAGLINE_a
 skit6b.bl1
-# s_VSTRIP_3cols_b
+# s_DIAGLINE_b
 wcup.bl1
 wcup1.men
 wcup2.men

@@ -14,5 +14,5 @@ pitches.dat
 sounds
 sprites.dat
 title
-# SPLASH_NEW
+# splash_biglogo
 README.md

@@ -16,14 +16,14 @@ fbgraph4.wet
 # H_Stripes_v3
 #
 pdat.sog
-# GOSSY
+# GOSSY_v2
 fbgraph4.sog
-# GOSSY
+# GOSSY_v6
 #
 pdat.art
-# PMANAGER+
+# CLASSIC+
 fbgraph4.art
-# PMANAGER+_v3
+# CLASSIC+
 #
 ## FINAL WHISTLE PITCHES ##
 #
@@ -34,10 +34,8 @@ FBGRAPH4.NON
 #
 PDAT.MUD
 # AMIGA
-# CLASSIC+
 FBGRAPH4.MUD
 # AMIGA
-# CLASSIC+
 #
 PDAT.WEM
 # WEMBLEY+
