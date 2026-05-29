@@ -16,9 +16,9 @@ fbgraph4.wet
 # H_Stripes_v3
 #
 pdat.sog
-# GOSSY_v2
+# DRIED
 fbgraph4.sog
-# GOSSY_v6
+# DRIED
 #
 pdat.art
 # CLASSIC+

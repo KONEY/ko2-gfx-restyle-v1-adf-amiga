@@ -30,9 +30,9 @@ kit1.bl1
 kit1b.bl1
 # KO1_b
 kit2.bl1
-# JUVE_a
+# VSTRIP_a
 kit2b.bl1
-# JUVE_b
+# VSTRIP_b
 kit4.bl1
 # KO23+KO24_a
 kit4b.bl1
@@ -82,9 +82,9 @@ skit1.bl1
 skit1b.bl1
 # s_KO1_b
 skit2.bl1
-# s_JUVE_a
+# s_VSTRIP_a
 skit2b.bl1
-# s_JUVE_b
+# s_VSTRIP_b
 skit3.bl1
 # s_KO23+KO24_a
 skit3b.bl1

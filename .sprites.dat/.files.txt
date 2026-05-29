@@ -8,9 +8,9 @@ style1a.iff
 style1b.iff
 # KO2_b
 style2a.iff
-# JUVE_a
+# VSTRIP_a
 style2b.iff
-# JUVE_b
+# VSTRIP_b
 style3a.iff
 # KO23+KO24_a
 style3b.iff
