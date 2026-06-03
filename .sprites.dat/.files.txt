@@ -21,9 +21,9 @@ style4a.iff
 style4b.iff
 # STANDARD_CV_b
 style5a.iff
-# DIAG+FW7_a
+# KO1_blue_a
 style5b.iff
-# DIAG+FW7_b
+# KO1_blue_b
 style6a.iff
 # DIAGLINE_a
 style6b.iff
