@@ -11,9 +11,9 @@ fbgraph4.nor
 # KO2CV_v1.YF2
 #
 pdat.wet
-# H_Stripes_v3
+# V_Stripes
 fbgraph4.wet
-# H_Stripes_v3
+# V_Stripes_V4
 #
 pdat.sog
 # DRIED
