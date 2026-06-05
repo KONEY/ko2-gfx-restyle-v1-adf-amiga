@@ -21,13 +21,13 @@ style4a.iff
 style4b.iff
 # STANDARD_CV_b
 style5a.iff
-# KO1_blue_a
-style5b.iff
-# KO1_blue_b
-style6a.iff
 # DIAGLINE_a
-style6b.iff
+style5b.iff
 # DIAGLINE_b
+style6a.iff
+# STANDARD_CV_a,BLUE
+style6b.iff
+# STANDARD_CV_b,BLUE
 #
 keeper.iff
 # KO1_KEEPER_GREEN
