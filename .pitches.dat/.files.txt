@@ -13,7 +13,7 @@ fbgraph4.nor
 pdat.wet
 # V_Stripes_V3
 fbgraph4.wet
-# V_Stripes_V3
+# V_Stripes_V3.1
 #
 pdat.sog
 # DRIED
