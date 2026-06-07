@@ -42,13 +42,13 @@ kit3.bl1
 kit3b.bl1
 # STANDARD_CV_b
 kit5.bl1
-# DIAG+FW7_a
-kit5b.bl1
-# DIAG+FW7_b
-kit6.bl1
 # DIAGLINE_a
-kit6b.bl1
+kit5b.bl1
 # DIAGLINE_b
+kit6.bl1
+# STANDARD_CV_BLUE_a
+kit6b.bl1
+# STANDARD_CV_BLUE_b
 ko1.men
 ko10.men
 ko11.men
@@ -94,13 +94,13 @@ skit4.bl1
 skit4b.bl1
 # s_STANDARD_CV_b
 skit5.bl1
-# s_DIAG+FW7_a
-skit5b.bl1
-# s_DIAG+FW7_b
-skit6.bl1
 # s_DIAGLINE_a
-skit6b.bl1
+skit5b.bl1
 # s_DIAGLINE_b
+skit6.bl1
+# s_STANDARD_CV_a
+skit6b.bl1
+# s_STANDARD_CV_b
 wcup.bl1
 wcup1.men
 wcup2.men
