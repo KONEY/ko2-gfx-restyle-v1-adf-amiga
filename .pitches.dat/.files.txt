@@ -6,9 +6,9 @@
 ## KICK OFF PITCHES ##
 #
 pdat.nor
-# KO2CV_v1
+# PITCH13
 fbgraph4.nor
-# KO2CV_v1.YF2
+# PITCH13_GRASS_5
 #
 pdat.wet
 # V_Stripes_V3
