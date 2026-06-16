@@ -8,7 +8,7 @@
 pdat.nor
 # PITCH13
 fbgraph4.nor
-# PITCH13_GRASS_A
+# PITCH13
 #
 pdat.wet
 # V_Stripes_V3
@@ -28,10 +28,8 @@ fbgraph4.art
 ## FINAL WHISTLE PITCHES ##
 #
 PDAT.NON
-# PITCH13
 # KO2CV_v2_BB
 FBGRAPH4.NON
-# PITCH13_GRASS_B
 # KO2CV_v2_BB
 #
 PDAT.MUD
