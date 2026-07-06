@@ -21,7 +21,7 @@ GfxCfgNameNor:		DC.B	"PITCH13",0,0		; 9xB
 GfxCfgNameWet:		DC.B	"SYNTURF",0,0
 GfxCfgNameSog:		DC.B	"DRIED",0,0,0,0
 GfxCfgNameArt:		DC.B	"CLASSIC+",0
-GfxCfgNameNon:		DC.B	"CV v2",0,0,0,0	
-GfxCfgNameMud:		DC.B	"AMIGA!",0,0,0
+GfxCfgNameNon:		DC.B	"PITCH18",0,0,0,0	
+GfxCfgNameMud:		DC.B	"PITCH22",0,0,0
 GfxCfgNameWem:		DC.B	"WEMBLEY+",0
 GfxCfgNameSno:		DC.B	"CV v3",0,0,0,0	
