@@ -12,16 +12,16 @@ GfxCfgbDefaultKitB:		DC.B	$3	; TEAM B DEFAULT KIT
 GfxCfgbDefaultColour1B:	DC.B	$0	; Team B default colour 1
 GfxCfgbDefaultColour2B:	DC.B	$4	; Team B default colour 2
 
-GfxCfgPalette:		DC.W $001A,$001F,$006E,$00EF,$0FFF,$0CCD,$0765,$0222
+GfxCfgPalette:		DC.W $001A,$001F,$006E,$00EF,$0FFF,$0CCD,$0B40,$0222	; $0765
 			DC.W $0700,$0A00,$0E00,$0F60,$0FF0,$0F8F,$0F0A,$0906
 			DC.W $060B,$0050,$00C0,$00F0		; Kit colours. 20xW
 
 GfxCfgTitle:		DC.B	"-GFX ReFIX v2.0-",0	; 17xb
 GfxCfgNameNor:		DC.B	"PITCH13",0,0		; 9xB
-GfxCfgNameWet:		DC.B	"SYNTURF",0,0
-GfxCfgNameSog:		DC.B	"DRIED",0,0,0,0
-GfxCfgNameArt:		DC.B	"CLASSIC+",0
-GfxCfgNameNon:		DC.B	"PITCH18",0,0,0,0	
-GfxCfgNameMud:		DC.B	"PITCH22",0,0,0
-GfxCfgNameWem:		DC.B	"WEMBLEY+",0
-GfxCfgNameSno:		DC.B	"CV v3",0,0,0,0	
+GfxCfgNameWet:		DC.B	"SQUARES",0,0
+GfxCfgNameSog:		DC.B	"PITCH18",0,0
+GfxCfgNameArt:		DC.B	"DRIED",0,0,0,0
+GfxCfgNameNon:		DC.B	"CLASSIC+",0
+GfxCfgNameMud:		DC.B	"-----",0,0,0,0
+GfxCfgNameWem:		DC.B	"-----",0,0,0,0
+GfxCfgNameSno:		DC.B	"SYNTURF",0,0

@@ -15,7 +15,6 @@ style3a.iff
 # KO23+KO24_a
 style3b.iff
 # KO23+KO24_b
-#
 style4a.iff
 # STANDARD_CV_a
 style4b.iff

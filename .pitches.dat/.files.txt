@@ -11,38 +11,38 @@ fbgraph4.nor
 # PITCH13_2
 #
 pdat.wet
-# V_Stripes_V3
+# PITCH_22
 fbgraph4.wet
-# V_Stripes_V3.1
+# PITCH_22_FILL_PM2
 #
 pdat.sog
-# DRIED
+# PITCH18DD4
 fbgraph4.sog
-# DRIED
+# PITCH18DD4
 #
 pdat.art
-# CLASSIC+
+# DRIED
 fbgraph4.art
-# CLASSIC+
+# DRIED
 #
 ## FINAL WHISTLE PITCHES ##
 #
 PDAT.NON
-# PITCH18DD4
+# CLASSIC+
 FBGRAPH4.NON
-# PITCH18DD4
+# CLASSIC+
 #
 PDAT.MUD
-# PITCH_22
+# KO2CV_v3
 FBGRAPH4.MUD
-# PITCH_22_FILLED8
+# KO2CV_v3_BB
 #
 PDAT.WEM
 # PITCH_22
 FBGRAPH4.WEM
-# PITCH_22_FILLED9
+# PITCH_22_FILL_PM3
 #
 PDAT.SNO
-# KO2CV_v3
+# V_Stripes_V3
 FBGRAPH4.SNO
-# KO2CV_v3_BB
+# V_Stripes_V3.1
