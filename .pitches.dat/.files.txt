@@ -28,25 +28,21 @@ fbgraph4.art
 ## FINAL WHISTLE PITCHES ##
 #
 PDAT.NON
-# 3D
 # CLASSIC+
 FBGRAPH4.NON
-# 3D_v3
 # CLASSIC+
 #
 PDAT.MUD
-# 3D
+# MUD
 FBGRAPH4.MUD
-# 3D_v1
+# MUDD
 #
 PDAT.WEM
-# 3D
+# 3D_v5
 FBGRAPH4.WEM
-# 3D_v2
+# 3D_v6
 #
 PDAT.SNO
-# 3D
 # V_Stripes_V3
 FBGRAPH4.SNO
-# MUD_TEST3
 # V_Stripes_V3.1
