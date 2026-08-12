@@ -38,9 +38,9 @@ FBGRAPH4.MUD
 # MUDD
 #
 PDAT.WEM
-# 3D_v5
+# 3D_refx1
 FBGRAPH4.WEM
-# 3D_v6
+# 3D_refx1
 #
 PDAT.SNO
 # V_Stripes_V3

@@ -34,7 +34,7 @@ kit2.bl1
 kit2b.bl1
 # VSTRIP_b
 kit4.bl1
-# KO23+KO24_a
+# KO24+STNDCV_a
 kit4b.bl1
 # KO23+KO24_b
 kit3.bl1
@@ -86,9 +86,9 @@ skit2.bl1
 skit2b.bl1
 # s_VSTRIP_b
 skit3.bl1
-# s_KO23+KO24_a
+# s_KO24+STNDCV_a
 skit3b.bl1
-# s_KO23+KO24_b
+# s_KO24+STNDCV_b
 skit4.bl1
 # s_STANDARD_CV_a
 skit4b.bl1
