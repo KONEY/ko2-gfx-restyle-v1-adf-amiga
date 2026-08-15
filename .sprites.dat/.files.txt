@@ -12,9 +12,9 @@ style2a.iff
 style2b.iff
 # VSTRIP_b
 style3a.iff
-# KO24+STNDCV_a
+# KO24+STNDCV_v2_a
 style3b.iff
-# KO24+STNDCV_b
+# KO24+STNDCV_v2_b
 style4a.iff
 # STANDARD_CV_a
 style4b.iff

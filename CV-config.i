@@ -23,5 +23,5 @@ GfxCfgNameSog:		DC.B	"PITCH18",0,0
 GfxCfgNameArt:		DC.B	"DRIED",0,0,0,0
 GfxCfgNameNon:		DC.B	"CLASSIC+",0
 GfxCfgNameMud:		DC.B	"MUDDY",0,0,0,0
-GfxCfgNameWem:		DC.B	"-----",0,0,0,0
+GfxCfgNameWem:		DC.B	"BRIGHT",0,0,0
 GfxCfgNameSno:		DC.B	"SYNTURF",0,0
