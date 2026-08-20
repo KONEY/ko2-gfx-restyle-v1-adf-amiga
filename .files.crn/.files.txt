@@ -34,6 +34,7 @@ kit2.bl1
 kit2b.bl1
 # VSTRIP_b
 kit4.bl1
+# kit4_2_a
 # KO24+STNDCV_v2_a
 kit4b.bl1
 # KO23+KO24_b
